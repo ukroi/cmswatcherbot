@@ -1,0 +1,17 @@
+{
+  "token": "",
+  "channel_id": "",
+  "scoreboard_link": "https://ranking.cmsioi2023.hu/day1_v2/",
+  "problems": {
+    "closing": "A",
+    "longesttrip": "B",
+    "soccer": "C"
+  },
+  "participants": {
+    "UKR1": "",
+    "UKR2": "",
+    "UKR3": "",
+    "UKR4": ""
+  },
+  "start_timestamp": 1692082800
+}
